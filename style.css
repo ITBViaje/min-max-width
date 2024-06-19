@@ -1,0 +1,29 @@
+.fondo{
+  background: black;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+.fondo2{
+  background-color: bisque;
+  padding: 10px;
+}
+ 
+.caja {
+  display: flex;
+  height: 200px;
+  border-radius: 15px;
+  background-color:aquamarine;
+  align-items: center;
+  justify-content: center;
+}
+.minWidth {
+  min-width: 300px;
+  padding: 10px;
+  width: 5%;
+  
+}
+.maxWidth {
+  max-width: 400px;
+  margin: 0 auto;
+}
